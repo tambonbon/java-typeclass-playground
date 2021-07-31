@@ -13,6 +13,7 @@ public class EmptyImpl  {
        @Override
        public String empty() {
           return "Nothing";
+
        }
    }
 }
